@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客搭建s on komorib Hugo blog</title>
+    <link>http://jsdfl.github.io/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+    <description>Recent content in 博客搭建s on komorib Hugo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 30 Jan 2022 16:48:47 +0800</lastBuildDate><atom:link href="http://jsdfl.github.io/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lovelt主题配置</title>
+      <link>http://jsdfl.github.io/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Sun, 30 Jan 2022 16:48:47 +0800</pubDate>
+      
+      <guid>http://jsdfl.github.io/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;h1 id=&#34;主题文档---基本概念&#34;&gt;主题文档 - 基本概念&lt;/h1&gt;
+&lt;p&gt;探索 Hugo - &lt;strong&gt;LoveIt&lt;/strong&gt; 主题的全部内容和背后的核心概念.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,7 @@
 # 剪纸进入当地小学美术教学的调查报告
 
 
-addsdf!
 
-去露营啦! :(fas fa-campground fa-fw): 很快就回来.
-
-真开心! :(far fa-grin-tears):
 
 # 剪纸进入当地小学美术教学的调查报告
 
