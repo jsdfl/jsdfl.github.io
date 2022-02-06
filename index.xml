@@ -34,5 +34,12 @@
     <author>作者</author>
     <guid>http://jsdfl.github.io/first_post/</guid>
     <description><![CDATA[剪纸进入当地小学美术教学的调查报告 一、地点：周家店镇中学小学 二、调查对象：学生、教师或家长 三、调查的目的：为了调查剪纸运用在小学美术课堂的可]]></description>
+</item><item>
+    <title>博客搭建</title>
+    <link>http://jsdfl.github.io/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://jsdfl.github.io/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+    <description><![CDATA[一、准备 首先根据自己操作系统下载合适的Hugo ，最新版本 <i class="far fa-file-archive fa-fw"></i>&nbsp;Hugo (&gt; 0.62.0). 二、安装 2.1 解压下载的hugo安装包 2.2 添加环境 win＋s搜索环境变量 点击环]]></description>
 </item></channel>
 </rss>
